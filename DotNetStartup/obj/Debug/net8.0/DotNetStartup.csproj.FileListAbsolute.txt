@@ -1,0 +1,14 @@
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\bin\Debug\net8.0\DotNetStartup.exe
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\bin\Debug\net8.0\DotNetStartup.deps.json
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\bin\Debug\net8.0\DotNetStartup.runtimeconfig.json
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\bin\Debug\net8.0\DotNetStartup.dll
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\bin\Debug\net8.0\DotNetStartup.pdb
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\obj\Debug\net8.0\DotNetStartup.GeneratedMSBuildEditorConfig.editorconfig
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\obj\Debug\net8.0\DotNetStartup.AssemblyInfoInputs.cache
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\obj\Debug\net8.0\DotNetStartup.AssemblyInfo.cs
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\obj\Debug\net8.0\DotNetStartup.csproj.CoreCompileInputs.cache
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\obj\Debug\net8.0\DotNetStartup.dll
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\obj\Debug\net8.0\refint\DotNetStartup.dll
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\obj\Debug\net8.0\DotNetStartup.pdb
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\obj\Debug\net8.0\DotNetStartup.genruntimeconfig.cache
+d:\Documents\CodingPortfolio\dotNetFirst\DotNetStartup\obj\Debug\net8.0\ref\DotNetStartup.dll
